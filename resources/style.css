@@ -12,6 +12,8 @@
   height: 69px;
   border-bottom: 1px solid seashell;
   z-index: 5;
+  position: fixed;
+  width: 100%;
 }
 
 header img {
@@ -23,6 +25,7 @@ nav span {
   text-decoration: underline;
   padding: 10px;
   font-size: 22px;
+  margin-right: 20px;
 }
 
 .container {
